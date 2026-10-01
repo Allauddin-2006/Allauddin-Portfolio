@@ -133,7 +133,7 @@ export const certifications = [
 ];
 
 export const achievements = {
-  headline: "100+",
+  headline: "150+",
   label: "LeetCode problems solved (C++, Python)",
   detail: "Spanning Dynamic Programming, Backtracking, Arrays, and Two Pointers.",
   badge: "50 Days Badge · 2026",
